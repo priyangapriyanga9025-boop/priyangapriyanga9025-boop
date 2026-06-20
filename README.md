@@ -39,6 +39,13 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyangapriyanga9025-boop&layout=compact&theme=tokyonight)
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyangapriyanga9025-boop&theme=onedark&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
