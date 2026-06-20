@@ -41,14 +41,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyangapriyanga9025-boop&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&color=blue)
@@ -76,3 +68,4 @@
 ---
 
 ⭐ Thanks for visiting my profile!
+
