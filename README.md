@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Priyanga
 
-<!--
-**priyangapriyanga9025-boop/priyangapriyanga9025-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Artificial Intelligence and Data Science Student
 
-Here are some ideas to get you started:
+### Skills
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+### Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop)
