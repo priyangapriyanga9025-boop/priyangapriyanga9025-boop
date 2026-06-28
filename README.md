@@ -1,4 +1,3 @@
-
 # Hello World! I'm Priyanga Mary Savarinathan 👋
 
 <p align="left">
@@ -9,10 +8,10 @@
 
 ### 💫 About Me
 
-I am an engineering student pursuing my **B.Tech in Artificial Intelligence and Data Science**. I sit at the intersection of intelligent computing and robust software architectures, focusing heavily on translating complex data patterns into highly accessible, user-centric mobile and web applications.
+I am a passionate engineering student pursuing my **B.Tech in Artificial Intelligence and Data Science**. I sit at the intersection of intelligent computing and robust software architectures, focusing heavily on translating complex data patterns into highly accessible, user-centric mobile and web applications.
 
 - 🔭 **Current Pursuits:** Exploring deep neural network configurations, advanced predictive modeling, and scaling mobile applications.
-- 🧠 **Academic Foundation:** Data Structures & Algorithms (DSA) in Java, Database Management Systems, and Statistical Machine Learning.
+- 🧠 **Academic Learning & Foundation:** Deep Learning, Machine Learning models, Java Data Structures & Algorithms (DSA), and Full-Stack Development.
 - ⚡ **Mission:** Writing efficient, readable code while building systems that make a measurable impact.
 
 ---
@@ -24,7 +23,7 @@ I am an engineering student pursuing my **B.Tech in Artificial Intelligence and 
     <td align="center" width="33%" bgcolor="#0f172a">
       <img src="https://img.shields.io/badge/Data%20Science%20%26%20AI-🧠-blue?style=for-the-badge&labelColor=1e1e2f&color=3776AB" alt="AI section"/><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="SQL"/>
       <br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
@@ -47,6 +46,15 @@ I am an engineering student pursuing my **B.Tech in Artificial Intelligence and 
     </td>
   </tr>
 </table>
+
+---
+
+## 🚀 Career Interests & Horizons
+
+- 🤖 **Artificial Intelligence & Machine Learning:** Deep Learning, predictive modeling, and NLP.
+- 📱 **Android Development:** Building robust, native client application architectures.
+- 🌐 **Full Stack Development & Cloud Computing:** End-to-end architectures, databases, and web services.
+- 💻 **Software Engineering:** Writing clean, scalable code built on concrete algorithmic foundations.
 
 ---
 
@@ -82,22 +90,16 @@ I am an engineering student pursuing my **B.Tech in Artificial Intelligence and 
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Specialization-blueviolet?style=for-the-badge&logo=google-learn&logoColor=white" alt="AI Cert"/><br/><br/>
-      </a>
-      <sub><b>Advanced Machine Learning & Predictive Models</b></sub>
+      <img src="https://img.shields.io/badge/Artificial%20Intelligence-Verified-blueviolet?style=for-the-badge&logo=google-learn&logoColor=white" alt="AI Cert"/><br/><br/>
+      <sub><b>AI & Data Science Specialization</b><br/>Advanced Machine Learning Models</sub>
     </td>
     <td width="33%" align="center">
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Android%20Architecture-Certified-success?style=for-the-badge&logo=android&logoColor=white" alt="Android Cert"/><br/><br/>
-      </a>
-      <sub><b>Native Client Application SDK Architectures</b></sub>
+      <img src="https://img.shields.io/badge/Android%20Architecture-Certified-success?style=for-the-badge&logo=android&logoColor=white" alt="Android Cert"/><br/><br/>
+      <sub><b>Mobile App Development Certification</b><br/>Native Android Client Infrastructures</sub>
     </td>
     <td width="33%" align="center">
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Java%20%26%20DSA-Mastery%20Track-orange?style=for-the-badge&logo=oracle&logoColor=white" alt="Java Cert"/><br/><br/>
-      </a>
-      <sub><b>Algorithmic Implementations & Complex Data Structures</b></sub>
+      <img src="https://img.shields.io/badge/Java%20%26%20DSA-Mastery%20Track-orange?style=for-the-badge&logo=oracle&logoColor=white" alt="Java Cert"/><br/><br/>
+      <sub><b>Data Structures & Algorithms</b><br/>Algorithmic Optimization Foundations</sub>
     </td>
   </tr>
 </table>
