@@ -49,36 +49,43 @@ I am a passionate engineering student pursuing my **B.Tech in Artificial Intelli
 
 ---
 
-## 🚀 Career Interests & Horizons
-
-- 🤖 **Artificial Intelligence & Machine Learning:** Deep Learning, predictive modeling, and NLP.
-- 📱 **Android Development:** Building robust, native client application architectures.
-- 🌐 **Full Stack Development & Cloud Computing:** End-to-end architectures, databases, and web services.
-- 💻 **Software Engineering:** Writing clean, scalable code built on concrete algorithmic foundations.
-
----
-
 ## 🚀 Featured Projects Portfolio
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Smart AI/ML Classifier & Predictor</h3>
-      <p align="left">An end-to-end machine learning pipeline engineered to ingest, clean, and process complex structural dataset distributions. Features high-precision matrix reports and optimized hyperparameter boundaries.</p>
+      <h3>🤖 AI Interview Assistant</h3>
+      <p align="left">An intelligent simulation platform engineered to conduct automated mock interview pipelines. Leverages natural language metrics to provide analytical feedback performance reports.</p>
       <p align="left">
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status"/>
-        <img src="https://img.shields.io/badge/Core-Python-blue?style=flat-square&logo=python" alt="Python"/>
+        <img src="https://img.shields.io/badge/Core-AI%20%2F%20ML-blue?style=flat-square" alt="AI"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       </p>
-      <code>Scikit-Learn</code> <code>Pandas</code> <code>NumPy</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🕵️‍♂️ AI-Based Scam Detection</h3>
+      <p align="left">An intelligent risk analysis engine designed to evaluate anomalies, flag security vulnerabilities, and classify suspicious message vectors using trained pattern boundaries.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Core-Security%20AI-red?style=flat-square" alt="Security"/>
+        <img src="https://img.shields.io/badge/Data-Analytics-orange?style=flat-square" alt="Analytics"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Online Website Development Platform</h3>
+      <p align="left">A full-stack responsive web platform built with scalable layout frameworks, persistent client routing environments, and clean UX implementations.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Core-Full%20Stack-green?style=flat-square" alt="FullStack"/>
+        <img src="https://img.shields.io/badge/Ecosystem-Web-blue?style=flat-square" alt="Web"/>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Native Android Utility Ecosystem</h3>
-      <p align="left">A responsive, modern Android application prioritizing fluid UI architectures. Leverages modular design threads, local persistent caching mechanics, and background task processing.</p>
+      <p align="left">A responsive Android application prioritizing fluid UI architectures. Leverages modular design threads, local persistent caching mechanics, and background task processing.</p>
       <p align="left">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" alt="Status"/>
-        <img src="https://img.shields.io/badge/Core-Java-ED8B00?style=flat-square&logo=openjdk" alt="Java"/>
+        <img src="https://img.shields.io/badge/Core-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
       </p>
-      <code>Android SDK</code> <code>SQLite</code> <code>XML Layouts</code>
     </td>
   </tr>
 </table>
@@ -87,22 +94,17 @@ I am a passionate engineering student pursuing my **B.Tech in Artificial Intelli
 
 ## 📜 Verified Certifications & Credentials
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Artificial%20Intelligence-Verified-blueviolet?style=for-the-badge&logo=google-learn&logoColor=white" alt="AI Cert"/><br/><br/>
-      <sub><b>AI & Data Science Specialization</b><br/>Advanced Machine Learning Models</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Android%20Architecture-Certified-success?style=for-the-badge&logo=android&logoColor=white" alt="Android Cert"/><br/><br/>
-      <sub><b>Mobile App Development Certification</b><br/>Native Android Client Infrastructures</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Java%20%26%20DSA-Mastery%20Track-orange?style=for-the-badge&logo=oracle&logoColor=white" alt="Java Cert"/><br/><br/>
-      <sub><b>Data Structures & Algorithms</b><br/>Algorithmic Optimization Foundations</sub>
-    </td>
-  </tr>
-</table>
+### 💼 Internships & Experiential Learning
+* 🛠️ **AI-ML Virtual Internship** — Hands-on implementation of core intelligence pipelines and analytical algorithms.
+* 💻 **Web Development Internship** — Completed end-to-end responsive design builds, architecture routing, and clean interface structures.
+
+### 🎓 NPTEL Academic Certifications
+* 🌐 **NPTEL: Cloud Computing** — Deep dive into virtualization architectures, cloud service management, and cluster deployments.
+* 📡 **NPTEL: Internet of Things (IoT)** — Specialized training in hardware integrations, embedded data layers, and sensor networks.
+
+### 🚀 Specialized Training & Workshops
+* 🤖 **Explore Generative AI (Microsoft)** — Verified exploration of large language baseline models, architectural prompting, and Azure AI foundations.
+* 📱 **Flutter App Development Workshop** — Intensive functional program covering cross-platform state engines and modern hybrid application structures.
 
 ---
 
