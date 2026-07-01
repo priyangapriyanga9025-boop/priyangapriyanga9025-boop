@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00F5FF&width=700&center=true&vCenter=true&lines=AI+%26+Data+Science+Student;Android+Application+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Innovative+Solutions"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&label=🚀%20Profile%20Views&color=00F5FF&style=flat-square" alt="Views"/>
-</p>
-
 ---
 
 ## 💫 About Me
