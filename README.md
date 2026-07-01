@@ -12,8 +12,7 @@
 
 ## 💫 About Me
 
-🎓 **B.Tech Artificial Intelligence and Data Science Student**  
-🚀 Passionate about engineering intelligent systems and architecting scalable digital solutions. I enjoy bridging data insights with rich user experiences across web and mobile platforms.
+🎓 **B.Tech Artificial Intelligence and Data Science Student** 🚀 Passionate about engineering intelligent systems and architecting scalable digital solutions. I enjoy bridging data insights with rich user experiences across web and mobile platforms.
 
 - 🌱 **Currently Learning:** Machine Learning, Deep Learning architectures, Java DSA, and Modern Full-Stack Workflows.
 - 🎯 **Career Interests:** Artificial Intelligence • Machine Learning • Data Science • Android Development • Software Engineering • Cloud Computing • Full Stack Development
@@ -33,6 +32,13 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyangapriyanga9025-boop&theme=tokyonight&no-bg=true&margin-w=15" alt="Priyanga's Trophies" width="100%"/>
+</p>
+
+---
+
 ## 📊 Analytics Dashboard
 
 <p align="center">
@@ -46,18 +52,10 @@
 
 ---
 
-## 🌐 Connect & Telemetry
+## ⚡ Quick Dev Metrics & Philosophy
 
-<p align="center">
-  <a href="mailto:priyangapriyanga9025@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="42"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/priyanga-mary-a163b9324"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="42"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/priyangapriyanga9025-boop"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="42"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Views"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer" width="100%"/>
-</p>
+```text
+⚡ Continuous Learning  : [████████████████████] 100%
+💻 Code & Coffee        : [████████████████░░░░] 80%
+🤖 AI & ML Exploration : [█████████████████░░░] 85%
+🚀 Debugging Life Rules : "If it works, don't touch it. If it doesn't, optimize it."
