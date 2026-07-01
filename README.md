@@ -1,59 +1,75 @@
 # 👋 Hi, I'm Priyanga Mary Savarinathan
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Full+Stack+Developer;Android+Application+Developer;Machine+Learning+Enthusiast;Building+Innovative+Tech+Solutions" />
+<p align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F5FF&width=700&lines=AI+%26+Data+Science+Engineer;Full+Stack+Developer;Android+Application+Developer;Machine+Learning+Enthusiast;Building+Innovative+Solutions"/>
+
 </p>
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=180&section=header&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
+
 </p>
+
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-🎓 **B.Tech Artificial Intelligence & Data Science Student**  
-💡 Passionate about building intelligent applications using AI, Machine Learning, and Full Stack Technologies.
+🎓 B.Tech Artificial Intelligence & Data Science Student  
 
-I love transforming ideas into real-world solutions by combining:
+🚀 Passionate about Artificial Intelligence, Machine Learning, Full Stack Development and Android Applications.
+
+I focus on building intelligent and scalable solutions by combining:
+
 - 🤖 Artificial Intelligence
 - 📊 Data Science
+- 🌐 Web Technologies
 - 📱 Mobile Application Development
-- 🌐 Full Stack Development
+
 
 ### 🔭 Currently Exploring
-- Deep Learning & Neural Networks
-- Machine Learning Models
-- Java DSA & Problem Solving
-- Scalable Software Architecture
 
-### 🎯 Goal
-To build innovative AI-powered applications that solve real-world problems.
+- Deep Learning & Neural Networks
+- Machine Learning Algorithms
+- Java DSA & Problem Solving
+- Modern Software Development
+
+
+### 🎯 Mission
+
+Building innovative technology solutions that create real-world impact.
+
 
 ---
 
 # 🛠️ Tech Stack
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript,react,nodejs,android,git,github,vscode" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript,react,nodejs,android,git,github,vscode"/>
 
 </p>
 
+
 ---
 
-# 💻 Projects Showcase
+# 🚀 Featured Projects
+
 
 ## 🤖 AI Interview Assistant
 
-An intelligent AI-powered interview simulation platform that provides realistic interview experiences.
+An AI-powered interview simulation platform designed to provide realistic interview experiences.
 
 ✨ Features:
-- AI Generated Questions
+- AI Generated Interview Questions
 - Voice Based Interaction
-- Face Monitoring
-- OCR Camera Support
-- Automated Feedback System
+- Face Monitoring System
+- Live OCR Camera Support
+- Automated Candidate Feedback
 
 Tech:
 `Python` `AI/ML` `Computer Vision` `NLP`
@@ -63,22 +79,22 @@ Tech:
 
 ## 🕵️ AI Scam Detection System
 
-A smart security solution that detects suspicious messages and identifies possible scam patterns using AI-based analysis.
+An intelligent security system that identifies suspicious messages and detects scam patterns using AI-based analysis.
 
 Tech:
-`Machine Learning` `Data Analysis` `Python`
+`Machine Learning` `Python` `Data Analytics`
 
 
 ---
 
 ## 🌐 Full Stack Website Platform
 
-A responsive web application developed with modern frontend and backend technologies.
+A responsive full-stack web application with modern UI design and database integration.
 
 Features:
-- Responsive UI
+- Responsive Design
 - User Authentication
-- Database Integration
+- Backend Integration
 
 Tech:
 `HTML` `CSS` `JavaScript` `Backend`
@@ -88,46 +104,52 @@ Tech:
 
 ## 📱 Android Utility Application
 
-A native Android application focused on smooth UI experience and efficient performance.
+A native Android application focused on smooth user experience and efficient performance.
 
 Tech:
 `Java` `Android Studio`
+
 
 ---
 
 # 🏆 Certifications & Achievements
 
-🎓 **NPTEL Cloud Computing**  
-☁️ Virtualization, Cloud Architecture & Services
 
-📡 **NPTEL Internet of Things (IoT)**  
-🔌 Sensors, Embedded Systems & Connected Devices
+🏅 AI-ML Virtual Internship
 
-🤖 **Explore Generative AI - Microsoft**  
-AI Models, Prompt Engineering & Generative AI Concepts
+🌐 Full Stack Web Development Internship
 
-💻 **AI-ML Virtual Internship**
+☁️ NPTEL Cloud Computing Certification
 
-🌐 **Full Stack Web Development Internship**
+📡 NPTEL Internet of Things (IoT)
 
-📱 **Flutter Application Development Workshop**
+🤖 Explore Generative AI - Microsoft
+
+📱 Flutter Application Development Workshop
+
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+
+<p align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=priyangapriyanga9025-boop&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+</p>
+
+
+<p align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyangapriyanga9025-boop&theme=tokyonight&hide_border=true" width="48%"/>
 
 </p>
 
 
-<p align="center">
+<p align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyangapriyanga9025-boop&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyangapriyanga9025-boop&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -136,37 +158,57 @@ AI Models, Prompt Engineering & Generative AI Concepts
 
 # 🌐 Connect With Me
 
-<p align="center">
+
+<p align="left">
+
 
 <a href="mailto:priyangapriyanga9025@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
+
 
 <a href="https://www.linkedin.com/in/priyanga-mary-a163b9324">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
+
 <a href="https://github.com/priyangapriyanga9025-boop">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
 
 </p>
 
 
-<p align="left side">
 
-💌 Let's connect and collaborate on AI, Data Science & Software Development Projects 🚀
+<p align="left">
+
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Engineer-00F5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-7F00FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-FF6F00?style=for-the-badge"/>
 
 </p>
 
 
 ---
 
-<p align="left side">
+<p align="left">
+
 <img src="https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
+
 </p>
 
 
-<p align="left side">
+<p align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer"/>
+
 </p>
