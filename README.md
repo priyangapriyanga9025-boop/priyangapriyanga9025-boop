@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Priyanga Mary Savarinathan
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -55,9 +55,11 @@
         <li>Face Monitoring & OCR Support</li>
         <li>Automated Feedback System</li>
       </ul>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI%2FML-Brain-blue"/>
-      <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-white"/>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%2FML-Brain-blue"/>
+        <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-white"/>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🕵️ AI Scam Detection System</h3>
@@ -66,9 +68,11 @@
         <li>Data-driven pattern analytics</li>
         <li>Real-time alert telemetry</li>
       </ul>
-      <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Data_Analytics-Chart-orange"/>
+      <p>
+        <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Data_Analytics-Chart-orange"/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -79,9 +83,11 @@
         <li>Secure User Authentication</li>
         <li>Dynamic Database Integration</li>
       </ul>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Android Utility Application</h3>
@@ -90,8 +96,10 @@
         <li>Native Performance Tracking</li>
         <li>Material Design System</li>
       </ul>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android&logoColor=white"/>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
@@ -109,7 +117,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyangapriyanga9025-boop&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=priyangapriyanga9025-boop&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyangapriyanga9025-boop&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -118,8 +126,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:priyangapriyanga9025@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/priyanga-mary-a163b9324"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/></a>&nbsp;&nbsp;
+  <a href="mailto:priyangapriyanga9025@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40"/></a>
+  <a href="https://www.linkedin.com/in/priyanga-mary-a163b9324"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/></a>
   <a href="https://github.com/priyangapriyanga9025-boop"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40"/></a>
 </p>
 
@@ -128,5 +136,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer" />
 </p>
