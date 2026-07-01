@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&label=🚀%20Profile%20Views&color=00F5FF&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00F5FF&width=700&center=true&vCenter=true&lines=AI+%26+Data+Science+Student;Android+Application+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Innovative+Solutions"/>
 </p>
 
@@ -41,6 +45,13 @@
 ## 🚀 Highlighted Framework Projects
 
 <table width="100%">
+  <tr>
+    <td>
+      <h3>🌐 Full-Stack Online Website Application</h3>
+      <p>A modern, responsive e-commerce web platform engineered with interactive UI workflows and clean database query architecture.</p>
+      <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Backend Engines</code> • <code>Database</code>
+    </td>
+  </tr>
   <tr>
     <td>
       <h3>🤖 AI Interview Assistant</h3>
