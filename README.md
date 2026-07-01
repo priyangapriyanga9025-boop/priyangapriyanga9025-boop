@@ -92,8 +92,39 @@
 
 ## 🌐 Connect With Me
 
-```text
-🌐 Terminal Contact Dashboard
-📬 Mail ID   : priyangapriyanga9025@gmail.com
-🐙 GitHub    : [github.com/priyangapriyanga9025-boop](https://github.com/priyangapriyanga9025-boop)
-💼 LinkedIn  : [linkedin.com/in/priyanga-mary-a163b9324](https://linkedin.com/in/priyanga-mary-a163b9324)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="mailto:priyangapriyanga9025@gmail.com">
+        <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40"/><br>
+        <sub><b>Email Me</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/priyanga-mary-a163b9324">
+        <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/><br>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/priyangapriyanga9025-boop">
+        <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40"/><br>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&label=🚀%20Profile%20Views&color=00F5FF&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  ✨ <i>Thanks for visiting my profile! Let's build something innovative together.</i> ✨
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer" width="100%"/>
+</p>
