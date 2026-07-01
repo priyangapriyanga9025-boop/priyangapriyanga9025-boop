@@ -153,7 +153,7 @@ AI Models, Prompt Engineering & Generative AI Concepts
 </p>
 
 
-<p align="center">
+<p align="left side">
 
 💌 Let's connect and collaborate on AI, Data Science & Software Development Projects 🚀
 
@@ -162,11 +162,11 @@ AI Models, Prompt Engineering & Generative AI Concepts
 
 ---
 
-<p align="center">
+<p align="left side">
 <img src="https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
 </p>
 
 
-<p align="center">
+<p align="left side">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer"/>
 </p>
