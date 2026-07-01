@@ -1,69 +1,63 @@
-# Hi 👋 I'm Priyanga Mary S
+# 👋 Hi, I'm Priyanga Mary Savarinathan
 
-## Artificial Intelligence and Data Science Student
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=180&section=header&text=Welcome%20To%20My%20Space&fontSize=40&fontColor=ffffff" width="100%"/>
+</p>
 
-🎓 B.Tech Artificial Intelligence and Data Science
-
-💻 Passionate about AI, Data Science, Android Development, and Software Development
-
-🌱 Currently learning Machine Learning, Deep Learning, and Full-Stack Development
-
-📫 Reach me at: kj4434354@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00F5FF&width=700&center=true&vCenter=true&lines=AI+%26+Data+Science+Student;Android+Application+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Innovative+Solutions"/>
+</p>
 
 ---
 
-## Skills
+## 💫 About Me
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+🎓 **B.Tech Artificial Intelligence and Data Science Student**  
+🚀 Passionate about engineering intelligent systems and architecting scalable digital solutions. I enjoy bridging data insights with rich user experiences across web and mobile platforms.
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyangapriyanga9025-boop&show_icons=true&theme=tokyonight)
+- 🌱 **Currently Learning:** Machine Learning, Deep Learning architectures, Java DSA, and Modern Full-Stack Workflows.
+- 🎯 **Career Interests:** Artificial Intelligence • Machine Learning • Data Science • Android Development • Software Engineering • Cloud Computing • Full Stack Development
 
 ---
 
-## GitHub Streak
+## 🛠️ Tech Stack & Tools
 
-![GitHub Streak](https://streak-stats.demolab.com?user=priyangapriyanga9025-boop&theme=tokyonight)
-
----
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyangapriyanga9025-boop&layout=compact&theme=tokyonight)
-
----
-
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&color=blue)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## Connect With Me
+## 📊 Analytics Dashboard
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhumitha-j-64aa24323)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyangapriyanga9025-boop&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />&nbsp;
+  <img src="https://streak-stats.demolab.com?user=priyangapriyanga9025-boop&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/priyangapriyanga9025-boop)
-
----
-
-## Career Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Android Development
-- Software Engineering
-- Cloud Computing
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyangapriyanga9025-boop&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🌐 Connect & Telemetry
+
+<p align="center">
+  <a href="mailto:priyangapriyanga9025@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="42"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/priyanga-mary-a163b9324"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="42"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/priyangapriyanga9025-boop"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="42"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer" width="100%"/>
+</p>
