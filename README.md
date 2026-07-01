@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Priyanga Mary Savarinathan
 
+
 <p align="left">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F5FF&width=700&lines=AI+%26+Data+Science+Engineer;Full+Stack+Developer;Android+Application+Developer;Machine+Learning+Enthusiast;Building+Innovative+Solutions"/>
@@ -22,25 +23,26 @@
 
 🚀 Passionate about Artificial Intelligence, Machine Learning, Full Stack Development and Android Applications.
 
-I focus on building intelligent and scalable solutions by combining:
+I love creating intelligent and scalable applications by combining:
 
 - 🤖 Artificial Intelligence
 - 📊 Data Science
-- 🌐 Web Technologies
+- 🌐 Full Stack Development
 - 📱 Mobile Application Development
 
 
 ### 🔭 Currently Exploring
 
-- Deep Learning & Neural Networks
-- Machine Learning Algorithms
-- Java DSA & Problem Solving
-- Modern Software Development
+- Deep Learning
+- Neural Networks
+- Machine Learning Models
+- Java DSA
+- Modern Software Architecture
 
 
-### 🎯 Mission
+### 🎯 Goal
 
-Building innovative technology solutions that create real-world impact.
+To build innovative technology solutions that solve real-world problems.
 
 
 ---
@@ -62,14 +64,15 @@ Building innovative technology solutions that create real-world impact.
 
 ## 🤖 AI Interview Assistant
 
-An AI-powered interview simulation platform designed to provide realistic interview experiences.
+An AI-powered interview simulation platform that provides realistic interview experience.
 
 ✨ Features:
-- AI Generated Interview Questions
+
+- AI Generated Questions
 - Voice Based Interaction
-- Face Monitoring System
-- Live OCR Camera Support
-- Automated Candidate Feedback
+- Face Monitoring
+- OCR Camera Support
+- Automated Feedback System
 
 Tech:
 `Python` `AI/ML` `Computer Vision` `NLP`
@@ -79,7 +82,7 @@ Tech:
 
 ## 🕵️ AI Scam Detection System
 
-An intelligent security system that identifies suspicious messages and detects scam patterns using AI-based analysis.
+An intelligent security system that detects suspicious messages using AI based analysis.
 
 Tech:
 `Machine Learning` `Python` `Data Analytics`
@@ -89,12 +92,13 @@ Tech:
 
 ## 🌐 Full Stack Website Platform
 
-A responsive full-stack web application with modern UI design and database integration.
+A responsive web application with modern UI and backend integration.
 
 Features:
+
 - Responsive Design
-- User Authentication
-- Backend Integration
+- Authentication
+- Database Integration
 
 Tech:
 `HTML` `CSS` `JavaScript` `Backend`
@@ -104,9 +108,10 @@ Tech:
 
 ## 📱 Android Utility Application
 
-A native Android application focused on smooth user experience and efficient performance.
+A native Android application focused on smooth performance and user experience.
 
 Tech:
+
 `Java` `Android Studio`
 
 
@@ -119,7 +124,7 @@ Tech:
 
 🌐 Full Stack Web Development Internship
 
-☁️ NPTEL Cloud Computing Certification
+☁️ NPTEL Cloud Computing
 
 📡 NPTEL Internet of Things (IoT)
 
@@ -135,14 +140,7 @@ Tech:
 
 <p align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyangapriyanga9025-boop&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-</p>
-
-
-<p align="left">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyangapriyanga9025-boop&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyangapriyanga9025-boop&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -155,29 +153,53 @@ Tech:
 
 
 ---
+
 # 🌐 Connect With Me
+
 
 <p align="left">
 
 <a href="mailto:priyangapriyanga9025@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45"/>
+
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+
 </a>
 
-&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 
 <a href="https://www.linkedin.com/in/priyanga-mary-a163b9324">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+
+<img src="https://img.icons8.com/color/48/linkedin.png"/>
+
 </a>
 
-&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 
 <a href="https://github.com/priyangapriyanga9025-boop">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+
+<img src="https://img.icons8.com/fluency/48/github.png"/>
+
 </a>
+
 
 </p>
 
 
+---
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
+
+</p>
 
 
+<p align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer"/>
+
+</p>
