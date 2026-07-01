@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
@@ -32,10 +32,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyangapriyanga9025-boop&theme=tokyonight&no-bg=true&margin-w=15" alt="Priyanga's Trophies" width="100%"/>
-</p>
+## 🚀 Highlighted Framework Projects
+
+### 🤖 AI Interview Assistant
+> An AI-powered interview simulation platform providing realistic interview telemetry.
+- ⚡ **Tech Build:** `Python` | `Computer Vision` | `NLP` | `OpenCV`
+- 🎯 **Features:** Voice Interaction, Face Monitoring Mesh, Automated Feedback.
+
+### 🕵️ AI Scam Detection System
+> Intelligent security pipeline intercepting and tracking fraudulent communication sequences.
+- ⚡ **Tech Build:** `Machine Learning` | `Python` | `Data Analytics`
 
 ---
 
@@ -47,15 +53,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyangapriyanga9025-boop&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyangapriyanga9025-boop&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
 
-## ⚡ Quick Dev Metrics & Philosophy
+## 🌐 Connect With Me
 
 ```text
-⚡ Continuous Learning  : [████████████████████] 100%
-💻 Code & Coffee        : [████████████████░░░░] 80%
-🤖 AI & ML Exploration : [█████████████████░░░] 85%
-🚀 Debugging Life Rules : "If it works, don't touch it. If it doesn't, optimize it."
+🌐 Terminal Contact Dashboard
+📬 Mail ID   : priyangapriyanga9025@gmail.com
+🐙 GitHub    : [github.com/priyangapriyanga9025-boop](https://github.com/priyangapriyanga9025-boop)
+💼 LinkedIn  : [linkedin.com/in/priyanga-mary-a163b9324](https://linkedin.com/in/priyanga-mary-a163b9324)
