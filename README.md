@@ -155,60 +155,29 @@ Tech:
 
 
 ---
-
 # 🌐 Connect With Me
 
-
 <p align="left">
-
 
 <a href="mailto:priyangapriyanga9025@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45"/>
 </a>
 
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/priyanga-mary-a163b9324">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 
+&nbsp;&nbsp;
 
 <a href="https://github.com/priyangapriyanga9025-boop">
-
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 </a>
 
-
 </p>
 
 
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Engineer-00F5FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-7F00FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-FF6F00?style=for-the-badge"/>
-
-</p>
 
 
----
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer"/>
-
-</p>
