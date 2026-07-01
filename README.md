@@ -16,10 +16,10 @@
 🚀 Passionate about bridging the gap between intelligent algorithms and scalable user experiences. I focus on building smart applications by combining Core AI, Full Stack Web systems, and Native Mobile architectures.
 
 ### 🔭 Currently Exploring
-* Deep Learning & Neural Networks
-* Advanced Machine Learning Models
-* Data Structures & Algorithms (Java DSA)
-* Modern Scalable Software Architecture
+- Deep Learning & Neural Networks
+- Advanced Machine Learning Models
+- Data Structures & Algorithms (Java DSA)
+- Modern Scalable Software Architecture
 
 ### 🎯 My Goal
 To architect innovative, data-driven technological solutions that target and solve pressing real-world issues effectively.
@@ -28,7 +28,10 @@ To architect innovative, data-driven technological solutions that target and sol
 
 ## 🛠️ Tech Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript,react,nodejs,android,git,github,vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript" alt="Primary Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,android,git,github,vscode" alt="Tools & Frameworks" />
+</p>
 
 ---
 
@@ -36,23 +39,42 @@ To architect innovative, data-driven technological solutions that target and sol
 
 ### 🤖 AI Interview Assistant
 An AI-powered interview simulation platform that provides a realistic, production-level interview experience.
-* **Key Features:** AI Questions & Voice Interaction | Face Monitoring & OCR Support | Automated Feedback System
-* **Tech:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%2FML-Brain-blue?style=flat-square) ![OpenCV](https://img.shields.io/badge/Computer_Vision-OpenCV-white?style=flat-square)
+* 🔹 AI Questions & Voice Interaction
+* 🔹 Face Monitoring & OCR Support
+* 🔹 Automated Feedback System
+
+> **Technologies Used:** 
+> `Python` | `AI/ML` | `Computer Vision` | `NLP`
+
+---
 
 ### 🕵️ AI Scam Detection System
 An intelligent security pipeline that intercepts, parses, and identifies fraudulent or suspicious communication sequences using active ML algorithms.
-* **Key Features:** Data-driven pattern analytics | Real-time alert telemetry
-* **Tech:** ![ML](https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-Chart-orange?style=flat-square)
+* 🔹 Data-driven pattern analytics
+* 🔹 Real-time alert telemetry
+
+> **Technologies Used:** 
+> `Machine Learning` | `Python` | `Data Analytics`
+
+---
 
 ### 🌐 Full Stack Website Platform
 A responsive web application featuring clean design mechanics, optimized state management, and robust server pipelines.
-* **Key Features:** Secure User Authentication | Dynamic Database Integration
-* **Tech:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+* 🔹 Secure User Authentication
+* 🔹 Dynamic Database Integration
+
+> **Technologies Used:** 
+> `HTML5` | `CSS3` | `JavaScript` | `Backend Development`
+
+---
 
 ### 📱 Android Utility Application
 A native mobile experience engineered strictly around resource optimization, performance profiles, and user-centric UI guidelines.
-* **Key Features:** Native Performance Tracking | Material Design System
-* **Tech:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white)
+* 🔹 Native Performance Tracking
+* 🔹 Material Design System
+
+> **Technologies Used:** 
+> `Java` | `Android Studio` | `Mobile Dev`
 
 ---
 
@@ -67,7 +89,7 @@ A native mobile experience engineered strictly around resource optimization, per
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyangapriyanga9025-boop&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=priyangapriyanga9025-boop&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyangapriyanga9025-boop&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -76,9 +98,9 @@ A native mobile experience engineered strictly around resource optimization, per
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:priyangapriyanga9025@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="42"/></a>
-  <a href="https://www.linkedin.com/in/priyanga-mary-a163b9324"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="42"/></a>
-  <a href="https://github.com/priyangapriyanga9025-boop"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="42"/></a>
+  <a href="mailto:priyangapriyanga9025@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/priyanga-mary-a163b9324"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/priyangapriyanga9025-boop"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40"/></a>
 </p>
 
 <p align="center">
