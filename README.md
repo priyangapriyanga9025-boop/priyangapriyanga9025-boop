@@ -8,14 +8,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00F5FF&width=700&center=true&vCenter=true&lines=AI+%26+Data+Science+Student;Android+Application+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Innovative+Solutions"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyangapriyanga9025-boop&label=🚀%20Profile%20Views&color=00F5FF&style=flat-square" alt="Views"/>
+</p>
+
 ---
 
 ## 💫 About Me
 
-🎓 **B.Tech Artificial Intelligence and Data Science Student** 🚀 Passionate about engineering intelligent systems and architecting scalable digital solutions. I enjoy bridging data insights with rich user experiences across web and mobile platforms.
-
-- 🌱 **Currently Learning:** Machine Learning, Deep Learning architectures, Java DSA, and Modern Full-Stack Workflows.
-- 🎯 **Career Interests:** Artificial Intelligence • Machine Learning • Data Science • Android Development • Software Engineering • Cloud Computing • Full Stack Development
+<table align="center" width="100%">
+  <tr>
+    <td>
+      🎓 <b>B.Tech Artificial Intelligence and Data Science Student</b><br><br>
+      🚀 Passionate about engineering intelligent systems and architecting scalable digital solutions. I enjoy bridging data insights with rich user experiences across web and mobile platforms.<br><br>
+      • 🌱 <b>Currently Learning:</b> Machine Learning, Deep Learning architectures, Java DSA, and Modern Full-Stack Workflows.<br>
+      • 🎯 <b>Career Interests:</b> AI • ML • Data Science • Android Dev • Software Engineering • Cloud Computing
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -34,14 +44,33 @@
 
 ## 🚀 Highlighted Framework Projects
 
-### 🤖 AI Interview Assistant
-> An AI-powered interview simulation platform providing realistic interview telemetry.
-- ⚡ **Tech Build:** `Python` | `Computer Vision` | `NLP` | `OpenCV`
-- 🎯 **Features:** Voice Interaction, Face Monitoring Mesh, Automated Feedback.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🤖 AI Interview Assistant</h3>
+      <p>An AI-powered interview simulation platform providing realistic interview telemetry.</p>
+      <code>Python</code> • <code>Computer Vision</code> • <code>NLP</code> • <code>OpenCV</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🕵️ AI Scam Detection System</h3>
+      <p>Intelligent security pipeline intercepting and tracking fraudulent communication sequences.</p>
+      <code>Machine Learning</code> • <code>Python</code> • <code>Data Analytics</code>
+    </td>
+  </tr>
+</table>
 
-### 🕵️ AI Scam Detection System
-> Intelligent security pipeline intercepting and tracking fraudulent communication sequences.
-- ⚡ **Tech Build:** `Machine Learning` | `Python` | `Data Analytics`
+---
+
+## 🏆 Certifications & Achievements
+
+- 🏅 **AI-ML Virtual Internship** – Hands-on experience building smart pipeline models.
+- 🌐 **Full Stack Web Development Internship** – Engineering responsive backend engines.
+- ☁️ **NPTEL Cloud Computing** – Verified structural distributed architecture training.
+- 📡 **NPTEL Internet of Things (IoT)** – Edge networks and data sensory streams execution.
+- 🤖 **Explore Generative AI (Microsoft)** – Token scaling and transformer layer exploration.
+- 📱 **Flutter Application Development Workshop** – Cross-platform mobile architecture workflows.
 
 ---
 
